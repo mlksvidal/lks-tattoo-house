@@ -1,0 +1,16 @@
+{
+  "name": "LKS Tattoo House",
+  "short_name": "LKS Tattoo",
+  "description": "Estudio de tatuajes especializado en fine line, botanico y blackwork en San Rafael, Mendoza.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#1a1a1a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

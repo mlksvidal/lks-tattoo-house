@@ -1,0 +1,34 @@
+# LKS Tattoo House
+
+> Estudio de tatuajes especializado en fine line, botanico, dotwork y blackwork en San Rafael, Mendoza, Argentina.
+
+## Artista
+- Lucas Vidal — tatuador profesional especializado en dotwork y fine line
+
+## Estilos
+- Fine line
+- Botanico
+- Dotwork
+- Blackwork
+
+## Ubicacion
+- San Rafael, Mendoza, Argentina
+
+## Contacto
+- WhatsApp: +54 260 403 0347
+- Instagram: @lkstattoohouse
+- Facebook: LKS Tattoo House
+
+## Horarios
+- Lunes a Viernes: 10:00 - 20:00
+- Sabados: 10:00 - 15:00
+- Solo con turno previo
+
+## Proceso
+1. Consulta — charla sobre la idea, estilo, tamano y ubicacion
+2. Diseno — creacion de diseno unico adaptado a la anatomia
+3. Sesion — trabajo con materiales de calidad en espacio limpio
+4. Cuidados — instrucciones post-tatuaje y seguimiento personalizado
+
+## Web
+- https://lkstattoohouse.vercel.app
