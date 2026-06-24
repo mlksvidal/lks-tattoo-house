@@ -26,3 +26,4 @@ dist-ssr
 # Pipeline state
 .pipeline/
 .backup-old/
+.vercel
